@@ -1,0 +1,40 @@
+{
+    "EmployeeId": 9,
+    "LastName": "Muensri",
+    "FirstName": "Piyawach",
+    "Title": "DEV",
+    "ReportsTo": 1,
+    "BirthDate": "2003-01-02 00:00:00",
+    "HireDate": "2021-08-14 00:00:00",
+    "Address": "11120 Jasper Ave NW",
+    "City": "Bangkok",
+    "State": null,
+    "Country": "Thailand",
+    "PostalCode": "11520",
+    "Phone": "+66 (780) 428-9482",
+    "Fax": null,
+    "Email": "FireCrackerX@chinookcorp.com"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+    "user": "Phukao", 
+    "purple": 1, 
+    "green": 2, 
+    "red": 3,
+    "blue": 4, 
+    "yellow": 5,
+    "status": "waiting"
+}
